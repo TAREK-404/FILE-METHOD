@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/266.0.0.56.124;FBBV/209027740;FBDM/{density=2.85,width=1080,height=2400};FBLC/en_US;FBRV/205281664;FBCR/Verizon;FBMF/Google;FBBD/google;FBPN/com.facebook.katana;FBDV/Pixel 7;FBSV/13;FBBK/1;FBOP/1;FBCA/arm64-v8a:;]
