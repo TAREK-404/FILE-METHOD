@@ -1,1 +1,2 @@
 [FBAN/FB4A;FBAV/387.0.0.24.102;FBBV/317416518;FBDM/{density=2.4,width=1080,height=2388};FBLC/en_US;FBRV/318014885;FBCR/Airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2322;FBSV/13;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[[FBAN/FB4A;FBAV/387.0.0.24.102;FBBV/317416518;FBDM/{density=2.4,width=1080,height=2388};FBLC/en_US;FBRV/318014885;FBCR/Airtel;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2322;FBSV/13;FBOP/1;FBCA/armeabi-v7a:armeabi;]]
