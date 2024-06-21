@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/209.0.0.39.91;FBBV/142863906;FBDM/{density=1.6,width=720,height=1480};FBLC/en_US;FBCR/VodafoneNZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600G;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/205.0.0.27.113;FBBV/139196834;FBDM/{density=1.6,width=720,height=1480};FBLC/en_US;FBCR/VodafoneNZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J600G;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
