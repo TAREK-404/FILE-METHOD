@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/195.0.0.35.99;FBBV/128710107;FBDM/{density=2.2,width=720,height=1280};FBLC/en_US;FBCR/VodafoneNZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J720F;FBSV/8.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/65.0.0.42.81;FBBV/23239543;FBDM/{density=2.45,width=1080,height=1920};FBLC/en_US;FBCR/Rogers Wireless;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/A5000;FBSV/7.1.1;nullFBCA/armeabi-v7a:armeabi;]
