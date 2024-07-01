@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/461.0.0.0.73;FBPN/com.facebook.orca;FBLC/en_US;FBBV/451208771;FBCR/Metro by T-Mobile;FBMF/Itel;FBBD/Itel;FBDV/Itel Vision 1 Pro;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.375,width=720,height=1600};]
+[FBAN/Orca-Android;FBAV/114.0.0.20.70;FBPN/com.facebook.orca;FBLC/en_US;FBBV/51686724;FBCR/null;FBMF/vivo;FBBD/vivo;FBDV/vivo Y67L;FBSV/6.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=720,height=1280};FB_FW/1;]
