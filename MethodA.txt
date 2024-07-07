@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/350.1.0.29.106;FBPN/com.facebook.orca;FBLC/pl_PL;FBBV/310015565;FBCR/PLAY;FBMF/LGE;FBBD/lge;FBDV/LGLS990;FBSV/4.4.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.5,width=1440,height=2560};FB_FW/1;] FBBK/1
+[FBAN/FB4A;FBAV/295.0.0.34.119;FBBV/254426061;FBDM/{density=1.8,width=1080,height=2280};FBLC/en_US;FBRV/0;FBCR/Airtel;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/TA-1200;FBSV/9.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
