@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/258.0.0.34.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/199294483;FBCR/TM;FBMF/samsung;FBBD/samsung;FBDV/SM-G720N0;FBSV/4.4.4;FBCA/arm64-v8a:null;FBDM/{density=1.2,width=720,height=1280};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/258.0.0.34.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/199294483;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBDV/SM-G720N0;FBSV/4.4.4;FBCA/arm64-v8a:null;FBDM/{density=1.2,width=720,height=1280};FB_FW/1;]
