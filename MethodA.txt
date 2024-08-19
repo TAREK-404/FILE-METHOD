@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/283.0.0.31.121;FBBV/237966664;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_US;FBRV/239808926;FBCR/Vodafone IN;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/ONEPLUS A5000;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/71.0.0.17.73;FBBV/27002204;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Airtel;FBMF/itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/itel it1508;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
